@@ -1,5 +1,5 @@
 # Configures a web server for deployment of web_static.
-
+# "longitude": -122.431297
 # Nginx configuration file
 $nginx_conf = "server {
     listen 80 default_server;
